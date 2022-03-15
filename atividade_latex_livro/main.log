@@ -1,0 +1,91 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.3.15)  15 MAR 2022 20:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@chapter=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\c@figure=\count184
+\c@table=\count185
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count186
+\U@D=\dimen139
+\l@babelnohyphens=\language3
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count187
+
+
+! Package babel Error: Unknown option `brazil'. Either you misspelled it
+(babel)                or the language definition file brazil.ldf was not found
+.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1120 \ProcessOptions*
+                       
+? 
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.1120 \ProcessOptions*
+                       
+? l
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+H for help, X to quit.
+? ^^X^^X^^X^^Xxx
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+H for help, X to quit.
+? x
+ 
+Here is how much of TeX's memory you used:
+ 1172 strings out of 481252
+ 14260 string characters out of 5915888
+ 301056 words of memory out of 5000000
+ 18180 multiletter control sequences out of 15000+600000
+ 404492 words of font info for 29 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 44i,0n,50p,152b,38s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
